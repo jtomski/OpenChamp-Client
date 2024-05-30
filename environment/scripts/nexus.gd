@@ -13,7 +13,6 @@ func _ready():
 		$AttackArea,
 		range_collider_attack,
 		mesh_instance,
-		attack_timer,
 		healthbar
 	)
 

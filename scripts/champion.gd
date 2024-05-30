@@ -28,7 +28,6 @@ func _ready():
 		range_collider_activate,
 		range_collider_attack,
 		mesh_instance,
-		attack_timer,
 		healthbar
 	)
 	
